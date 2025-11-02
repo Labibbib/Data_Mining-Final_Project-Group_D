@@ -11,10 +11,13 @@ Dataset berisi 1279 entri yang discraping dari platform X (Twitter) dengan mengg
 
 ## Hasil Temuan
 - Sentimen dan WordCloud
+
 Sentimen negatif lebih banyak daripada sentimen positif dengan perbedaan 215 tweet dari total 1279 tweet. Dari sentimen negatif banyak warganet yang menganggap program ini hanyalah "gimmick", "iseng", dan "pencitraan" semata, sedangkan untuk sentimen positif kebanyakan dari mereka memberikan dukungan dan memuji program ini, ditandai dengan banyaknya kata "salut", "dukung", dan "manfaat".
 
 - Topik pembicaraan
+
 Dari total 1279 tweets, pembicaraan terpecah menjadi 3. Diantaranya membicarakan tentang manfaat, keluhan teknis, dan 
   
 - Social Network Analysis
+
 Dari hasil analisis, diperoleh beberapa akun yang menjadi user pusat atau bisa dibilang, pemicu pembicaraan. Ini diindikasikan dengan banyaknya mention yang didapatkan pada akun tersebut.
